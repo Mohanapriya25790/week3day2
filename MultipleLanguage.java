@@ -6,7 +6,5 @@ public abstract class MultipleLanguage implements TestTool,Language{
 		
 
 	}
-public void ruby() {
-	System.out.println("ruby");
-}
+ abstract void ruby();
 }

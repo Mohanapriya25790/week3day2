@@ -3,9 +3,11 @@ public class Automation extends MultipleLanguage {
 
 	public static void main(String[] args) {
 		Automation a = new Automation();
-		
+		a.Java();
+		a.Selenium();
+		a.ruby();
+		a.phyton();
 	}
-
 	public void Selenium() {
 		System.out.println("Selenium");
 		
@@ -15,5 +17,21 @@ public class Automation extends MultipleLanguage {
 		System.out.println("java");
 		
 	}
-a.Java();
 
+	
+
+
+	void ruby() {
+		System.out.println("ruby");
+		
+	}
+	
+
+
+
+
+
+
+	}
+
+	

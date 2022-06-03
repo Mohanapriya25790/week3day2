@@ -1,5 +1,5 @@
 
 public interface Language {
-public void Java();
+public  void Java();
 
 }
